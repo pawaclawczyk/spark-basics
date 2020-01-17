@@ -1,0 +1,3 @@
+[submodule "sdk"]
+	path = sdg
+	url = https://github.com/databricks/Spark-The-Definitive-Guide.git

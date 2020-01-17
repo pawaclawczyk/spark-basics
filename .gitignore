@@ -1,0 +1,5 @@
+.jupter/
+.ipynb_checkpoints/
+
+Snap.*.trc
+javacore.*.txt
