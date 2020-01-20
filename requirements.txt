@@ -1,5 +1,5 @@
-pyspark
-# py4j==0.10.7 # required by pyspark==2.4.4
+pyspark==2.4.4
+py4j==0.10.7 # required by pyspark==2.4.4
 findspark
 pandas
 numpy
