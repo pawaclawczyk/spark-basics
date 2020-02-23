@@ -6,3 +6,4 @@ numpy
 pyarrow
 jupyterlab
 seaborn
+ipython
